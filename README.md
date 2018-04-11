@@ -1,5 +1,5 @@
-# ML-StudyGroup
-Machine Learning (Foundation) Study Group for Hardware Engineer.  
+# Machine Learning Study Group 2018 (MLSG18)
+Machine Learning Study Group for Hardware Engineer.  
   
 This repository is for record of “Machine Learning (Foundation) Study Group for Hardware Engineer”.  
 
@@ -16,6 +16,7 @@ In this Study Group, we plan to learn “Foundation of Machine Learning” and �
 >**Recommended IDE (Integrated Development Environment)**  
 Jupyter Notebook  
   
-  
-![alt text](https://github.com/TakumaKawahara/ML-StudyGroup/blob/master/ML_cover.jpg)  
-
+>**Schedule**
+12. Apr. 2018 (Thu.):   
+  Introduction of Maltivariable regression.
+  How to use Python.
