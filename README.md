@@ -22,10 +22,15 @@ Jupyter Notebook
 - How to use Python.  
   
   
-TBD  
-Chapter10
+>**TBD**  
 - EDA (Exploratory Data Analysis)  
-- OLS (Ordinary Least Squares)  
-- Evaluation of model (MSE, RMSE, R-squared)  
+- OLS (Ordinary Least Squares),Multivariable regression  
+- Evaluation of model 1 (MSE, RMSE, R-squared)  
+- Data Preprocessing (Data type, Missing value, One-hot encoding, feature scaling)  
+- Logistic regression 
+
+- Evaluation of model 2 (MSE, RMSE, R-squared)  
+
 - Sparse modeling (Ridge, LASSO, Elastic Net)  
-- Multivariable regression  
+- Decision Tree, Random Forest  
+
