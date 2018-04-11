@@ -23,14 +23,19 @@ Jupyter Notebook
   
   
 >**TBD**  
-- EDA (Exploratory Data Analysis)  
-- OLS (Ordinary Least Squares),Multivariable regression  
+- EDA Exploratory Data Analysis  
+- OLS Ordinary Least Squares, Multivariable regression  
 - Evaluation of model 1 (MSE, RMSE, R-squared)  
 - Data Preprocessing (Data type, Missing value, One-hot encoding, feature scaling)  
 - Logistic regression 
-
-- Evaluation of model 2 (MSE, RMSE, R-squared)  
-
+- Evaluation of model 2 (Pipe line, Cross validation, LOOCV, Hold-out, Learning curve and Validation curve, Grid search)    
 - Sparse modeling (Ridge, LASSO, Elastic Net)  
 - Decision Tree, Random Forest  
+- Evaluation of model 3 (Confusion matrix, ROC curve)  
+- PCA Principal Component Analysis  
+- LDA Linear Discriminant Analysis  
+- k-means algorithm  
+- Hierarchical clustering  
+- DBSCAN Density-based Spatial Clustering of Applications with Noise
+- SVM Support Vector Machine, kernel SVM
 
