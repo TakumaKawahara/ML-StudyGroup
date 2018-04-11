@@ -16,7 +16,7 @@ In this Study Group, we plan to learn “Foundation of Machine Learning” and �
 >**Recommended IDE (Integrated Development Environment)**  
 Jupyter Notebook  
   
->**Schedule**
+>**Schedule**  
 12. Apr. 2018 (Thu.):   
   Introduction of Maltivariable regression.
   How to use Python.
