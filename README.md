@@ -18,5 +18,14 @@ Jupyter Notebook
   
 >**Schedule**  
 12.Apr.2018(Thu.)  
- Introduction of Maltivariable regression.
- How to use Python.
+- Introduction of Maltivariable regression.  
+- How to use Python.  
+  
+  
+TBD  
+Chapter10
+- EDA (Exploratory Data Analysis)  
+- OLS (Ordinary Least Squares)  
+- Evaluation of model (MSE, RMSE, R-squared)  
+- Sparse modeling (Ridge, LASSO, Elastic Net)  
+- Multivariable regression  
