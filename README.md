@@ -3,24 +3,25 @@ Machine Learning Study Group for Hardware Engineer.  
   
 This repository is for record of “Machine Learning (Foundation) Study Group for Hardware Engineer”.  
 
->**Background**  
+### Background   
 These days, data what we are dealing with become more complex and the size of that become larger.  
 So I believe that data analytical skill are becoming very important, not only for Software Engineer but also Hardware Engineer.  
 
->**Object**  
+### Object  
 In this Study Group, we plan to learn “Foundation of Machine Learning” and “How to implement of it using Python.”  
 
->**Text book**  
+### Text book  
 “Python Machine Learning” by Sebastian Raschka.  
 
->**Recommended IDE (Integrated Development Environment)**  
+### Recommended IDE (Integrated Development Environment)  
 Jupyter Notebook  
   
->**Schedule**  
->**12.Apr.2018(Thu.)**
+### Schedule  
+>**12.Apr.2018(Thu.)**  
 Introduction of Maltivariable regression.  
 How to use Python.  
->**19.Apr.2018(Thu.)**
+  
+>**19.Apr.2018(Thu.)**  
 EDA Exploratory Data Analysis  
 OLS Ordinary Least Squares, Multivariable regression 
   
