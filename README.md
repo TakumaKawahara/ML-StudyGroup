@@ -17,12 +17,12 @@ In this Study Group, we plan to learn “Foundation of Machine Learning” and �
 Jupyter Notebook  
   
 >**Schedule**  
-12. Apr. 2018(Thu.)  
+12.Apr.2018(Thu.)  
 - Introduction of Maltivariable regression.  
 - How to use Python.  
   
 >**Schedule**  
-19. Apr. 2018(Thu.)  
+19.Apr.2018(Thu.)  
 - EDA Exploratory Data Analysis  
 - OLS Ordinary Least Squares, Multivariable regression 
   
