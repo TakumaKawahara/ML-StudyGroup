@@ -23,11 +23,10 @@ How to use Python.
   
 >**19.Apr.2018(Thu.)**  
 EDA Exploratory Data Analysis  
-OLS Ordinary Least Squares  
   
 >**26.Apr.2018(Thu.)**  
-OLS Ordinary Least Squares
-Evaluation of model 1 (MSE, RMSE, R-squared)  
+OLS Ordinary Least Squares  
+Evaluation of model 1 (MSE, RMSE, R-squared)  
   
 >**TBD**  
 - Multivariable regression
