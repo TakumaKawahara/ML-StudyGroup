@@ -1,11 +1,11 @@
 # Machine Learning Study Group 2018 (MLSG18)
 Machine Learning Study Group for Hardware Engineer.  
   
-This repository is for record of “Machine Learning (Foundation) Study Group for Hardware Engineer”.  
+This repository is for record about “Machine Learning Study Group for Hardware Engineer”.  
 
 ### Background   
-These days, data what we are dealing with become more complex and the size of that become larger.  
-So I believe that data analytical skill are becoming very important, not only for Software Engineer but also Hardware Engineer.  
+These days, data what we are dealing with become more complex and the size of that become larger.  
+I believe that data analytical skills are becoming very important, not only for Software Engineer but also Hardware Engineer.  
 
 ### Object  
 In this Study Group, we plan to learn “Foundation of Machine Learning” and “How to implement of it using Python.”  
@@ -26,12 +26,12 @@ EDA Exploratory Data Analysis
 OLS Ordinary Least Squares  
   
 >**26.Apr.2018(Thu.)**  
+OLS Ordinary Least Squares
 Evaluation of model 1 (MSE, RMSE, R-squared)  
-Multivariable regression   
   
-  
->**TBD**  
-- Data Preprocessing (Data type, Missing value, One-hot encoding, feature scaling)  
+>**TBD**  
+- Multivariable regression
+- Data Preprocessing (Data type, Missing value, One-hot encoding, feature scaling)  
 - Logistic regression 
 - Evaluation of model 2 (Pipe line, Cross validation, LOOCV, Hold-out, Learning curve and Validation curve, Grid search)    
 - Sparse modeling (Ridge, LASSO, Elastic Net)  
