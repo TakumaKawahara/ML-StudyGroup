@@ -25,11 +25,12 @@ How to use Python.
 EDA Exploratory Data Analysis  
   
 >**26.Apr.2018(Thu.)**  
-OLS Ordinary Least Squares  
-Evaluation of model 1 (MSE, RMSE, R-squared, Adjusted-R2, AIC)  
+OLS Ordinary Least Squares  
+Gradient Descent    
   
 >**TBD**  
-- Multivariable regression, Stepwise AIC method for variable selection  
+- Evaluation of model 1 (MSE, RMSE, R-squared, Adjusted-R2, AIC)  
+- Multivariable regression, Stepwise AIC method for variable selection  
 - Data Preprocessing (Data type, Missing value, One-hot encoding, feature scaling)  
 - Logistic regression 
 - Evaluation of model 2 (Pipe line, Cross validation, LOOCV, Hold-out, Learning curve and Validation curve, Grid search)    
