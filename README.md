@@ -25,8 +25,8 @@ How to use Python.
 EDA Exploratory Data Analysis  
   
 >**26.Apr.2018(Thu.)**  
-OLS Ordinary Least Squares  
-Gradient Descent    
+OLS Ordinary Least Squares  
+Gradient Descent  
   
 >**TBD**  
 - Evaluation of model 1 (MSE, RMSE, R-squared, Adjusted-R2, AIC)  
