@@ -27,7 +27,10 @@ EDA Exploratory Data Analysis
 >**26.Apr.2018(Thu.)**  
 OLS Ordinary Least Squares  
 Gradient Descent  
-  
+
+>**17.May.2018(Thu.)**  
+How to use Python.
+
 >**TBD**  
 - Evaluation of model 1 (MSE, RMSE, R-squared, Adjusted-R2, AIC)  
 - Multivariable regression, Stepwise AIC method for variable selection  
