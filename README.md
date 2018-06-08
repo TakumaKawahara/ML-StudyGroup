@@ -37,8 +37,11 @@ Evaluation of model 1 (MSE, RMSE, R-squared, Adjusted-R2)
 >**31.May.2018(Thu.)**  
 Evaluation of model 1 (AIC)
 
+>**07.June.2018(Thu.)**  
+Multivariable regression, Stepwise AIC method for variable selection
+
+
 >**TBD**  
-- Multivariable regression, Stepwise AIC method for variable selection  
 - Data Preprocessing (Data type, Missing value, One-hot encoding, feature scaling)  
 - Logistic regression 
 - Evaluation of model 2 (Pipe line, Cross validation, LOOCV, Hold-out, Learning curve and Validation curve, Grid search)    
