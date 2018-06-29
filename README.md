@@ -41,7 +41,11 @@ Evaluation of model 1 (AIC)
 Multivariable regression, Stepwise AIC method for variable selection  
   
 >**14.June.2018(Thu.)**  
-Data Preprocessing (Data type, Missing value, One-hot encoding, feature scaling)  
+Data Preprocessing (Data type, Missing value, One-hot encoding, feature scaling)  
+  
+>**28.June.2018(Thu.)**  
+Logistic regression     
+
 
 
 >**TBD**  
