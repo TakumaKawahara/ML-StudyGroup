@@ -46,10 +46,11 @@ Data Preprocessing (Data type, Missing value, One-hot encoding, feature scaling)
 >**28.June.2018(Thu.)**  
 Logistic regression     
 
+>**05.July.2018(Thu.)**  
+Logistic regression     
 
 
 >**TBD**  
-- Logistic regression 
 - Evaluation of model 2 (Pipe line, Cross validation, LOOCV, Hold-out, Learning curve and Validation curve, Grid search)    
 - Sparse modeling (Ridge, LASSO, Elastic Net)  
 - Decision Tree, Random Forest  
