@@ -52,9 +52,11 @@ Logistic regression
 >**12.July.2018(Thu.)**  
 Evaluation of model 2 (Pipe line, Cross validation, LOOCV, Hold-out)  
 
+>**19.July.2018(Thu.)**  
+Evaluation of model 2 (Learning curve and Validation curve, Grid search)  
+
 
 >**TBD**  
-- Evaluation of model 2 (Learning curve and Validation curve, Grid search)    
 - Sparse modeling (Ridge, LASSO, Elastic Net)  
 - Decision Tree, Random Forest  
 - Evaluation of model 3 (Confusion matrix, ROC curve)  
