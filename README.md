@@ -61,6 +61,9 @@ Analysis of in-house data
 >**09.Aug.2018(Thu.)**  
 Analysis of in-house data  
 
+>**23.Aug.2018(Thu.)**  
+Analysis of in-house data  
+
 
 >**TBD**  
 - Sparse modeling (Ridge, LASSO, Elastic Net)  
