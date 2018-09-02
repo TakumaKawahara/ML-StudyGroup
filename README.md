@@ -64,9 +64,12 @@ Analysis of in-house data
 >**23.Aug.2018(Thu.)**  
 Analysis of in-house data  
 
+>**30.Aug.2018(Thu.)**  
+Sparse modeling (LASSO regression)  
+
 
 >**TBD**  
-- Sparse modeling (Ridge, LASSO, Elastic Net)  
+- Sparse modeling (Ridge, Elastic Net)  
 - Decision Tree, Random Forest  
 - Evaluation of model 3 (Confusion matrix, ROC curve)  
 - PCA Principal Component Analysis  
