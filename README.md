@@ -70,9 +70,11 @@ Sparse modeling (LASSO regression)
 >**06.Sep.2018(Thu.)**  
 Sparse modeling (Ridge regression)  
 
+>**13.Sep.2018(Thu.)**  
+Sparse modeling (Elastic Net)  
+
 
 >**TBD**  
-- Sparse modeling (Elastic Net)  
 - Decision Tree, Random Forest  
 - Evaluation of model 3 (Confusion matrix, ROC curve)  
 - PCA Principal Component Analysis  
