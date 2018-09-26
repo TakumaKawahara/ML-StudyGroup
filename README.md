@@ -73,6 +73,9 @@ Sparse modeling (Ridge regression)
 >**13.Sep.2018(Thu.)**  
 Sparse modeling (Elastic Net)  
 
+>**20.Sep.2018(Thu.)**  
+Decision Tree  
+
 
 >**TBD**  
 - Decision Tree, Random Forest  
