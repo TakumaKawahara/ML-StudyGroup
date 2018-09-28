@@ -76,9 +76,11 @@ Sparse modeling (Elastic Net)
 >**20.Sep.2018(Thu.)**  
 Decision Tree  
 
+>**27.Sep.2018(Thu.)**  
+Decision Tree  
 
 >**TBD**  
-- Decision Tree, Random Forest  
+- Random Forest  
 - Evaluation of model 3 (Confusion matrix, ROC curve)  
 - PCA Principal Component Analysis  
 - LDA Linear Discriminant Analysis  
