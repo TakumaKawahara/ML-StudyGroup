@@ -82,6 +82,9 @@ Decision Tree
 >**04.Oct.2018(Thu.)**  
 Random Forest  
 
+>**11.Oct.2018(Thu.)**  
+Evaluation of model 3 (Confusion matrix, ROC curve)  
+
 >**TBD**  
 - Evaluation of model 3 (Confusion matrix, ROC curve)  
 - PCA Principal Component Analysis  
