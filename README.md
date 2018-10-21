@@ -84,9 +84,11 @@ Random Forest
 
 >**11.Oct.2018(Thu.)**  
 Evaluation of model 3 (Confusion matrix, ROC curve)  
+  
+>**18.Oct.2018(Thu.)**  
+Evaluation of model 3 (Confusion matrix, ROC curve)  
 
->**TBD**  
-- Evaluation of model 3 (Confusion matrix, ROC curve)  
+>**TBD**   
 - PCA Principal Component Analysis  
 - LDA Linear Discriminant Analysis  
 - k-means algorithm  
