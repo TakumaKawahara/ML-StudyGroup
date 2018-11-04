@@ -91,6 +91,9 @@ Evaluation of model 3 (Confusion matrix, ROC curve)
 >**25.Oct.2018(Thu.)**  
 PCA Principal Component Analysis  
 
+>**01.Nov.2018(Thu.)**  
+PCA Principal Component Analysis  
+
 >**TBD**   
 - LDA Linear Discriminant Analysis  
 - k-means algorithm  
