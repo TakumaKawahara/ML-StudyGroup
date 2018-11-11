@@ -94,8 +94,10 @@ PCA Principal Component Analysis
 >**01.Nov.2018(Thu.)**  
 PCA Principal Component Analysis  
 
+>**08.Nov.2018(Thu.)**  
+- LDA Linear Discriminant Analysis 
+
 >**TBD**   
-- LDA Linear Discriminant Analysis  
 - k-means algorithm  
 - Hierarchical clustering  
 - DBSCAN Density-based Spatial Clustering of Applications with Noise
