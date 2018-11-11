@@ -95,7 +95,7 @@ PCA Principal Component Analysis
 PCA Principal Component Analysis  
 
 >**08.Nov.2018(Thu.)**  
-- LDA Linear Discriminant Analysis 
+LDA Linear Discriminant Analysis 
 
 >**TBD**   
 - k-means algorithm  
