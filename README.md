@@ -99,10 +99,3 @@ LDA Linear Discriminant Analysis
 
 >**15.Nov.2018(Thu.)**  
 LDA Linear Discriminant Analysis 
-
->**TBD**   
-- k-means algorithm  
-- Hierarchical clustering  
-- DBSCAN Density-based Spatial Clustering of Applications with Noise
-- SVM Support Vector Machine, kernel SVM
-
